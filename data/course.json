@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5ab65d5b-c937-6357-af29-c3839f35a9a8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Studies in Urban Studies and Planning - The Cardener River Corridor Workshop",
+  "course_description": "This landscape and environmental planning workshop investigates and propose a framework for the enhancement, development and preservation of the natural and cultural landscape of the Cardener River Corridor in Catalunya, Spain. The workshop is carried out in conjunction with the Polytechnic University of Catalunya, and the Barcelona Provincial Council (Diputaci\u00f3 de Barcelona).\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.943",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
